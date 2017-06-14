@@ -19,5 +19,5 @@ Then simply run the program, and pass the music files as arguments:
 ```
 
 ## Examples
-[!Opening Screen](./opening_screen.png)
-[!Screenshot](./screenshot.png)
+![Opening Screen](./opening_screen.png)
+![Screenshot](./screenshot.png)
