@@ -8,8 +8,10 @@ Simply execute the 'compile.bat' file through a DOS emulator: (I used DOSBox)
 > compile.bat
 ```
 
+Note: the compiler used is called 'Turbo Assembler'.
+
 ## Executing
-Make sure that the generated files:
+Make sure that the generated files are in the same directory:
 - Player.exe
 - splash.wav
 
